@@ -23,5 +23,7 @@ public class SampleString{
 	System.out.println("Compare To 'ROCKSTAR' - Case Ignored: " + str4.compareToIgnoreCase("ROCKSTAR"));
 	
 	System.out.println("Replace 'Rock' with 'Duke': " + str4.replace("Rock", "Duke"));
+	
+	System.out.println(args);
 	}
 }
